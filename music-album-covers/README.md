@@ -5,6 +5,7 @@ Music Album Covers
 - 띄어쓰기를 '-' 로 변경
 - 다른 문자들은 그대로
 - 기호 등은 없애기
+-- ~ 은 - 로
 
 example
-- https://ghtea.github.io/public/music-album-covers/loveless.jpg
+- https://ghtea.github.io/public/music-album-covers/my-bloody-valentine-loveless.jpg
